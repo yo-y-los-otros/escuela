@@ -7,8 +7,11 @@ gem 'rails', '3.2.12'
 
 gem 'pg'
 
+<<<<<<< HEAD
 gem 'will_paginate'
 
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
 
 # Gems used only for assets and not required
 # in production environments by default.
@@ -18,10 +21,15 @@ group :assets do
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   gem 'therubyracer', :platforms => :ruby
+<<<<<<< HEAD
+=======
+
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
   gem 'uglifier', '>= 1.0.3'
 end
 
 gem 'jquery-rails'
+<<<<<<< HEAD
 gem 'paperclip'
 gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
 gem 'simple_form'
@@ -29,6 +37,11 @@ gem 'twitter-bootstrap-rails'
 gem 'bootstrap'
 gem 'simple_form'
 gem 'prawn'
+=======
+gem 'simple_form'
+gem 'twitter-bootstrap-rails'
+gem 'bootstrap'
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'

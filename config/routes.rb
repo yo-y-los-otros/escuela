@@ -1,7 +1,10 @@
 Escuela::Application.routes.draw do
+<<<<<<< HEAD
   resources :cursos
 
 
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

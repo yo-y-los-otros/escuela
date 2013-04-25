@@ -1,7 +1,10 @@
 GEM
   remote: https://rubygems.org/
   specs:
+<<<<<<< HEAD
     Ascii85 (1.0.2)
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
     actionmailer (3.2.12)
       actionpack (= 3.2.12)
       mail (~> 2.4.4)
@@ -29,6 +32,7 @@ GEM
     activesupport (3.2.12)
       i18n (~> 0.6)
       multi_json (~> 1.0)
+<<<<<<< HEAD
     afm (0.2.0)
     arel (3.0.2)
     bootstrap (0.0.1)
@@ -37,6 +41,11 @@ GEM
       activesupport (>= 3.0)
     cocaine (0.5.1)
       climate_control (>= 0.0.3, < 1.0)
+=======
+    arel (3.0.2)
+    bootstrap (0.0.1)
+    builder (3.0.4)
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
     coffee-rails (3.2.2)
       coffee-script (>= 2.2.0)
       railties (~> 3.2.0)
@@ -44,11 +53,17 @@ GEM
       coffee-script-source
       execjs
     coffee-script-source (1.6.2)
+<<<<<<< HEAD
     commonjs (0.2.6)
     erubis (2.7.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
     hashery (2.1.0)
+=======
+    erubis (2.7.0)
+    execjs (1.4.0)
+      multi_json (~> 1.0)
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
     hike (1.2.2)
     i18n (0.6.4)
     journey (1.0.4)
@@ -56,11 +71,14 @@ GEM
       railties (>= 3.0, < 5.0)
       thor (>= 0.14, < 2.0)
     json (1.7.7)
+<<<<<<< HEAD
     less (2.3.1)
       commonjs (~> 0.2.6)
     less-rails (2.3.2)
       actionpack (>= 3.1)
       less (~> 2.3.1)
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
     libv8 (3.11.8.17)
     mail (2.4.4)
       i18n (>= 0.4.0)
@@ -68,6 +86,7 @@ GEM
       treetop (~> 1.4.8)
     mime-types (1.23)
     multi_json (1.7.2)
+<<<<<<< HEAD
     paperclip (3.4.1)
       activemodel (>= 3.0.0)
       activerecord (>= 3.0.0)
@@ -85,6 +104,10 @@ GEM
     prawn (0.12.0)
       pdf-reader (>= 0.9.0)
       ttfunk (~> 1.0.2)
+=======
+    pg (0.15.1)
+    polyglot (0.3.3)
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
     rack (1.4.5)
     rack-cache (1.2)
       rack (>= 0.4)
@@ -111,7 +134,10 @@ GEM
     rdoc (3.12.2)
       json (~> 1.4)
     ref (1.0.4)
+<<<<<<< HEAD
     ruby-rc4 (0.1.5)
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
     sass (3.2.8)
     sass-rails (3.2.6)
       railties (~> 3.2.0)
@@ -133,7 +159,10 @@ GEM
     treetop (1.4.12)
       polyglot
       polyglot (>= 0.3.1)
+<<<<<<< HEAD
     ttfunk (1.0.3)
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
     twitter-bootstrap-rails (2.2.6)
       actionpack (>= 3.1)
       execjs
@@ -142,7 +171,10 @@ GEM
     uglifier (2.0.1)
       execjs (>= 0.3.0)
       multi_json (~> 1.0, >= 1.0.2)
+<<<<<<< HEAD
     will_paginate (3.0.4)
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
 
 PLATFORMS
   ruby
@@ -151,14 +183,21 @@ DEPENDENCIES
   bootstrap
   coffee-rails (~> 3.2.1)
   jquery-rails
+<<<<<<< HEAD
   less-rails
   paperclip
   pg
   prawn
+=======
+  pg
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
   rails (= 3.2.12)
   sass-rails (~> 3.2.3)
   simple_form
   therubyracer
   twitter-bootstrap-rails
   uglifier (>= 1.0.3)
+<<<<<<< HEAD
   will_paginate
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330

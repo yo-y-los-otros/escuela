@@ -7,9 +7,12 @@
 # Ignore bundler config
 /.bundle
 
+<<<<<<< HEAD
 # Ignore config
 /config/database.yml
 
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
 # Ignore the default SQLite database.
 /db/*.sqlite3
 
