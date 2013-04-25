@@ -16,6 +16,7 @@ group :assets do
 
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   gem 'therubyracer', :platforms => :ruby
+  gem "less-rails" 
 
   gem 'uglifier', '>= 1.0.3'
 end
@@ -23,7 +24,6 @@ end
 gem 'jquery-rails'
 gem 'simple_form'
 gem 'twitter-bootstrap-rails'
-gem 'bootstrap'
 
 # To use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
