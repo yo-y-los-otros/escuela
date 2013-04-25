@@ -1,7 +1,22 @@
 Escuela::Application.routes.draw do
+<<<<<<< HEAD
   resources :materias
 
 
+=======
+<<<<<<< HEAD
+  resources :docentes
+
+
+=======
+<<<<<<< HEAD
+  resources :cursos
+
+
+=======
+>>>>>>> 944351417c0a50ada669e7ad2b71f68ee9a8e330
+>>>>>>> ce47d27f118116f3604da0c01d1bfe7ece40dc5a
+>>>>>>> 620abca792672240876f3b4d1ff46f0b410aa07f
   # The priority is based upon order of creation:
   # first created -> highest priority.
 

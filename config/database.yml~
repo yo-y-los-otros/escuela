@@ -17,14 +17,35 @@ development:
   encoding: unicode
   database: escuela_development
   pool: 5
+<<<<<<< HEAD
   username: escuela
   password:
+=======
+<<<<<<< HEAD
+  username: postgres
+  password: postgres
+  host: localhost
+  port: 5433
+=======
+  username: escuela
+  password:
+>>>>>>> ce47d27f118116f3604da0c01d1bfe7ece40dc5a
+>>>>>>> 620abca792672240876f3b4d1ff46f0b410aa07f
 
   # Connect on a TCP socket. Omitted by default since the client uses a
   # domain socket that doesn't need configuration. Windows does not have
   # domain sockets, so uncomment these lines.
+<<<<<<< HEAD
   #host: localhost
   #port: 5432
+=======
+<<<<<<< HEAD
+  
+=======
+  #host: localhost
+  #port: 5432
+>>>>>>> ce47d27f118116f3604da0c01d1bfe7ece40dc5a
+>>>>>>> 620abca792672240876f3b4d1ff46f0b410aa07f
 
   # Schema search path. The server defaults to $user,public
   #schema_search_path: myapp,sharedapp,public
@@ -43,13 +64,37 @@ test:
   encoding: unicode
   database: escuela_test
   pool: 5
+<<<<<<< HEAD
   username: escuela
   password:
+=======
+<<<<<<< HEAD
+  username: postgres
+  password: postgres
+  host: localhost
+  port: 5433
+=======
+  username: escuela
+  password:
+>>>>>>> ce47d27f118116f3604da0c01d1bfe7ece40dc5a
+>>>>>>> 620abca792672240876f3b4d1ff46f0b410aa07f
 
 production:
   adapter: postgresql
   encoding: unicode
   database: escuela_production
   pool: 5
+<<<<<<< HEAD
   username: escuela
   password:
+=======
+<<<<<<< HEAD
+  username: postgres
+  password: postgres
+  host: localhost
+  port: 5433
+=======
+  username: escuela
+  password:
+>>>>>>> ce47d27f118116f3604da0c01d1bfe7ece40dc5a
+>>>>>>> 620abca792672240876f3b4d1ff46f0b410aa07f
