@@ -1,4 +1,7 @@
 Escuela::Application.routes.draw do
+  resources :materias
+
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
